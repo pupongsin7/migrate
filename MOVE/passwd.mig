@@ -1,0 +1,4 @@
+nut:x:1000:1000:nut:/home/nut:/bin/bash
+eharris1:x:1001:1002:Ehharris Changed:/home/eharris:/bin/bash
+grant1:x:1002:1002:Grant:/home/grant1:/bin/bash
+s5906021410001:x:1003:1007::/home/s5906021410001:/bin/bash
